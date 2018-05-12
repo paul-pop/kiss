@@ -1,2 +1,3 @@
-# kiss
-Code snippets for KISS
+# KISS
+
+Code snippets for KISS sides

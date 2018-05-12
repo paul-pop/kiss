@@ -1,0 +1,20 @@
+<authors>
+    <author id="1">
+        <name>Paul</name>
+        <nationality>Romanian</nationality>
+    </author>
+    <author id="2">
+        <name>Cirpo</name>
+        <nationality>Italian</nationality>
+    </author>
+</authors>
+
+<books>
+    <book id="1">
+        <title>KISS</name>
+        <authors>
+            <authorId>1</authorId>
+            <authorId>2</authorId>
+        </authors>
+    </book>
+</books>

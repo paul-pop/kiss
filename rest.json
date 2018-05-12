@@ -1,0 +1,16 @@
+{
+    "authors": [{
+        "id": 1,
+        "name": "Paul",
+        "nationality": "Romanian"
+    }, {
+        "id": 2,
+        "name": "Cirpo",
+        "nationality": "Italian"
+    }],
+    "books": [{
+        "id": 1,
+        "title": "KISS",
+        "authors": [1, 2]
+    }]
+}
